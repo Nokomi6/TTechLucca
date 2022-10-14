@@ -1,0 +1,76 @@
+body {
+    display: flex;
+    height: 95vh;
+}
+
+h3 {
+    text-align: left;
+    margin: 0 0 0 2%;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100vw;
+    background-color: lightgray;
+    height: 80vh;
+    place-self: center;
+}
+
+.globalDiv {
+    display: flex;
+    flex-direction: column;
+    width: 40vw;
+    text-align: center;
+    justify-content: center;
+}
+
+#chatA,
+#chatB {
+    height: 40vh;
+    border: 1px black solid;
+    width: 40vw;
+    background-color: white;
+    overflow: auto;
+}
+
+.inputDiv {
+    margin-top: 2%;
+}
+
+.inputDiv>form>input {
+    flex: 2 1 auto;
+    margin-right: 2%;
+}
+
+.inputDiv>form>button {
+    flex: 1 1 auto;
+}
+
+form {
+    display: flex;
+    width: 100%;
+    height: 30px;
+}
+
+p {
+    margin: 0 0 2% 2%;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    word-wrap: break-word;
+}
+
+.pLeft {
+    text-align: left;
+    border-color: #dedede;
+    background-color: #b388e7;
+}
+
+.pRight {
+    text-align: right;
+    border-color: #ccc;
+    background-color: rgb(234, 68, 159);
+}

@@ -1,0 +1,15 @@
+/home/nokomi/Lucca/back/MyApp/bin/Debug/net6.0/MyApp
+/home/nokomi/Lucca/back/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/home/nokomi/Lucca/back/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/home/nokomi/Lucca/back/MyApp/bin/Debug/net6.0/MyApp.dll
+/home/nokomi/Lucca/back/MyApp/bin/Debug/net6.0/MyApp.pdb
+/home/nokomi/Lucca/back/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/home/nokomi/Lucca/back/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nokomi/Lucca/back/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/home/nokomi/Lucca/back/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/home/nokomi/Lucca/back/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/home/nokomi/Lucca/back/MyApp/obj/Debug/net6.0/MyApp.dll
+/home/nokomi/Lucca/back/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/home/nokomi/Lucca/back/MyApp/obj/Debug/net6.0/MyApp.pdb
+/home/nokomi/Lucca/back/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/home/nokomi/Lucca/back/MyApp/obj/Debug/net6.0/ref/MyApp.dll
